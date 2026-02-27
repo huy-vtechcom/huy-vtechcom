@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vu Quoc Huy</h1>
-- 🌱 I’m **Web Developer**
+<!-- <h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyvu-developer" alt="huyvu-developer" /> </p> -->
+
+<!-- - 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
+
+- 🌱 I’m **Fullstack Developer**
+
 - 📫 How to reach me **huyvq.developer@gmail.com**
+
 
 ### 💻 Technologies
 
